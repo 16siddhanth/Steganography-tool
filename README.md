@@ -22,9 +22,11 @@ Welcome to the **Steganography Tool** – a powerful, easy-to-use Python applica
   - `Pillow`
   - `cryptography`
 
+Run the code by simply running the app.py file.
+
 You can install the required libraries using `pip`:
 
 ```bash
 pip install Pillow cryptography 
 
-Run the code by simply running the app.py file.
+
